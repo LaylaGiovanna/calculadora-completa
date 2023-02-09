@@ -1,7 +1,7 @@
 /*
  * objetivo: Realizar calculos matematicos(SOMA, SUBTRAÇAO, MULTIPLICACAO E DIVISAO)
  * DATA:03/02/2023
- * AUTOR: paula
+ * AUTOR: Layla
  * versao: 1.0
  */
 

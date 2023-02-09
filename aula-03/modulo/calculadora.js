@@ -1,7 +1,7 @@
 /************************
  * Objetivo: Arquivos de funções paraa realizar calculos matematicos
  * Data: 03/02/2023
- * Autora: 
+ * Autora: Layla
  * Versão: 1.0
 ***********************/
 
